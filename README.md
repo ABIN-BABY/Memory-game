@@ -1,2 +1,2 @@
 # Memory-game
-A simple game project done using Html, CSS and Javascript code.
+A simple game project using Html, CSS and Javascript code.
